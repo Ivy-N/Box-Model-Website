@@ -1,6 +1,4 @@
 .test-box{
-  border-left:2px solid red;
-  border-right:4px solid green;
-  border-top:6px solid blue;
-  border-bottom:8px solid purple;
+  border:2px solid red;
+  padding:6px;
 }
